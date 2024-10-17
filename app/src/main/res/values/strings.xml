@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Captioning</string>
+    <string name="button1">Gallery</string>
+    <string name="button2">Camera</string>
+    <string name="imageview">Image</string>
+    <string name="textview">Text</string>
+    <string name="defaultText">Select an image from a gallery or camera</string>
+    <string name="wait">Producing caption…</string>
+    <string name="default_web_client_id">505447110939-mt5nvad8avohguato05phgijhf4vqlnh.apps.googleusercontent.com</string>
+    <string name="google_login_web_client_id">505447110939-mt5nvad8avohguato05phgijhf4vqlnh.apps.googleusercontent.com</string>
+    <string name="Textbox">Ask a question about the image</string>
+    <string name="Ask">Ask</string>
+    <string name="wait2">Producing answer…</string>
+    <string name="take_picture">Take Picture</string>
+
+</resources>
